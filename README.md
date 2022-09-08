@@ -106,7 +106,6 @@
 ## <img height="40" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/dn4.gif"/>
  #### My Setup:
  <p>
-    <!-- Pick a 6 digit random color code for the url -->
     <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-94D5D5.svg?style=flat-square&logo=ubuntu&logoColor=white">
     <img alt="Windows" src="https://img.shields.io/badge/-Windows-86C8F5.svg?style=flat-square&logo=windows&logoColor=white">
     <img alt="Kali Linux" src="https://img.shields.io/badge/-Kali%20Linux-764ABC.svg?style=flat-square&logo=kali-linux&logoColor=white">
@@ -125,5 +124,4 @@
     <img alt="OpenVPN" src="https://img.shields.io/badge/-OpenVPN-9787E0.svg?style=flat-square&logo=openvpn&logoColor=white">
     <img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-245B00.svg?style=flat-square&logo=bitwarden&logoColor=white">
     <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-FF8A00.svg?style=flat-square&logo=obs-studio&logoColor=white">
-
  </p>
