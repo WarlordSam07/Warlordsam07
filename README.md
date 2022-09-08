@@ -135,3 +135,6 @@
  <p align="center">
  <img  height="200" width="700" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/opnakama9.jpg"/>
 </p>
+<p style="text-align:center; font-size:30px; color:violet; font-family: 'Times New Roman', Times, serif; font-weight:bold; text-decoration:underline;">
+Sayonara, Visitor!
+</p>
