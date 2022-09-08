@@ -102,4 +102,28 @@
     <img alt="Sqlmap" src="https://img.shields.io/badge/-Sqlmap-048A00.svg?logo=sqlmap&logoColor=white">
     <img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-008080.svg?logo=wireshark&logoColor=white">
   </p>
- 
+
+## <img height="40" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/dn4.gif"/>
+ #### My Setup:
+ <p>
+    <!-- Pick a 6 digit random color code for the url -->
+    <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-94D5D5.svg?style=flat-square&logo=ubuntu&logoColor=white">
+    <img alt="Windows" src="https://img.shields.io/badge/-Windows-86C8F5.svg?style=flat-square&logo=windows&logoColor=white">
+    <img alt="Kali Linux" src="https://img.shields.io/badge/-Kali%20Linux-764ABC.svg?style=flat-square&logo=kali-linux&logoColor=white">
+    <img alt="whonix" src="https://img.shields.io/badge/-whonix-ADEB00.svg?style=flat-square&logo=whonix&logoColor=white">
+    <img alt="cmder" src="https://img.shields.io/badge/-cmder-POU8F5.svg?style=flat-square&logo=cmder&logoColor=white">
+    <img alt="emacs" src="https://img.shields.io/badge/-emacs-008ABC.svg?style=flat-square&logo=emacs&logoColor=white">
+    <img alt="vim" src="https://img.shields.io/badge/-vim-098WER.svg?style=flat-square&logo=vim&logoColor=white">
+    <img alt="Notion" src="https://img.shields.io/badge/-Notion-8945B0.svg?style=flat-square&logo=notion&logoColor=white">
+    <img alt="MobaXterm" src="https://img.shields.io/badge/-MobaXterm-0077B5.svg?style=flat-square&logo=mobaxterm&logoColor=white">
+    <img alt="VirtualBox" src="https://img.shields.io/badge/-VirtualBox-008444.svg?style=flat-square&logo=virtualbox&logoColor=white">
+    <img alt="Atom" src="https://img.shields.io/badge/-Atom-00A7E0.svg?style=flat-square&logo=atom&logoColor=white">
+    <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-0097E0.svg?style=flat-square&logo=android-studio&logoColor=white">
+    <img alt="Postman" src="https://img.shields.io/badge/-Postman-97QE00.svg?style=flat-square&logo=postman&logoColor=white">
+    <img alt="Firefox" src="https://img.shields.io/badge/-Firefox-0097E0.svg?style=flat-square&logo=firefox&logoColor=white">
+    <img alt="Brave" src="https://img.shields.io/badge/-Brave-009P00.svg?style=flat-square&logo=brave&logoColor=white">
+    <img alt="OpenVPN" src="https://img.shields.io/badge/-OpenVPN-9787E0.svg?style=flat-square&logo=openvpn&logoColor=white">
+    <img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-245B00.svg?style=flat-square&logo=bitwarden&logoColor=white">
+    <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-FF8A00.svg?style=flat-square&logo=obs-studio&logoColor=white">
+
+ </p>
