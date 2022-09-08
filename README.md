@@ -1,4 +1,5 @@
 <h2> Hi, 👋 I'm WarlordSam </h2>
+<img height="500" width="281" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/5cms.gif"/>
 
 <a href="https://discord.com/users/WarlordSam#5451">
   <img align="left" alt="WarlordSam's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -14,9 +15,9 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=warlordsam07&show_icons=true&theme=radical" width="380">
 <p><em>Just a regular techie who has a keen interest in esoteric technologies <br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
- My name is Pratik Lagaskar but I go by my alias warlordsam. I am a passionate life-long student of cybersecurity. Most of my projects are either private or on different hosting services. I like to spend mojority of my time learning new things related to development, DevSecOps and Cybersecurity. 
+ My name is Pratik Lagaskar but I go by my alias warlordsam. I am a passionate life-long student of cybersecurity. Most of my projects are either private or on different hosting services. I like to spend majority of my time learning new things related to development, DevSecOps and Cybersecurity. 
  
- - 🔭 I’m currently working on a dark web scanner.
+ - 🔭 I’m currently working on a dark web data wells scanner.
 - 🌱 I’m currently learning Ruby on Rails, Scala and attending a lot of tech-conferences .
 - 👯 I’m willing to collaborate on building security tools, and research projects.
 - 📫 How to reach me: pratiklagaskar.pl@gmail.com
@@ -54,4 +55,4 @@
  #### Cybersecurity related stuff that I'm proficient in:
  
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=warlordsam07&count_private=true&theme=radical" alt="WarlordSam07" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=warlordsam07&count_private=true&theme=radical" alt="WarlordSam07" width="380" />
