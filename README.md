@@ -21,7 +21,8 @@
  My name is Pratik Lagaskar but I go by my alias 'warlordsam'. I am a pseudo-introvert who is passionate about Cybersecurity and is a life-long learner. Most of my projects are either private or on different hosting services. I like to spend majority of my time learning new things related to Development, DevSecOps and Cybersecurity. 
  
  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=warlordsam07&count_private=true&theme=radical" alt="WarlordSam07" width="380" />
-- 📙 I’m an Undergraduate student pursuing Electronics Engineering.                                 
+ 
+ - 📙 I’m an Undergraduate student pursuing Electronics Engineering.                                 
 - 🔭 I’m currently working on a dark web data wells scanner.
 - 🌱 I’m currently learning Ruby on Rails, Scala and attending a lot of tech-conferences .
 - 👯 I’m willing to collaborate on building security tools, and research projects.
