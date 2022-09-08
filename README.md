@@ -16,6 +16,11 @@
 <p><em>Just a regular techie who has a keen interest in esoteric technologies <br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
  My name is Pratik Lagaskar but I go by my alias warlordsam. I am a passionate life-long student of cybersecurity. Most of my projects are either private or on different hosting services. I like to spend mojority of my time learning new things related to development, DevSecOps and Cybersecurity. 
  
+ - 🔭 I’m currently working on a dark web scanner.
+- 🌱 I’m currently learning Ruby on Rails, Scala and attending a lot of tech-conferences .
+- 👯 I’m willing to collaborate on building security tools, and research projects.
+- 📫 How to reach me: pratiklagaskar.pl@gmail.com
+- 😄 Pronouns: My pronouns are 'He' not 'Him', coz I'll never be him: <img height="40" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/elliot2.gif"/>
  ## <img height="40" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/ani1.gif"/>
  #### Development Related Stuff that I'm familiar with:
  <p>
