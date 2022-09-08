@@ -26,7 +26,7 @@
 - 🔭 I’m currently working on a dark web data wells scanner.
 - 🌱 I’m currently learning Ruby on Rails, Scala and attending a lot of tech-conferences .
 - 👯 I’m willing to collaborate on building security tools, and research projects.
-- 📫 You can reach me at: pratiklagaskar.pl@gmail.com
+- 📫 You can reach me at: pratiklagaskar.pl@gmail.com | daemon1201@protonmail.com
 - 😄 Pronouns: My pronouns are 'He' not 'Him', coz I'll never be him: <img height="50" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/elliot3.gif"/>
   
  
