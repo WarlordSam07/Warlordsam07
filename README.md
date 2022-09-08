@@ -128,4 +128,4 @@
  </p>
 
  
- <img align='center' height="200" width="700" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/opnakama9.gif"/>
+ <img align='center' height="200" width="700" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/opnakama9.jpg"/>
