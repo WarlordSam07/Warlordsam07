@@ -1,6 +1,6 @@
 <h2> Hi, 👋 I'm WarlordSam </h2>
 
-<a href="WarlordSam#5451">
+<a href="https://discord.com/users/WarlordSam#5451">
   <img align="left" alt="WarlordSam's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/warlordsam077">
