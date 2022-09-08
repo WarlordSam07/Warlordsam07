@@ -162,6 +162,8 @@
     <img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-245B00.svg?style=flat-square&logo=bitwarden&logoColor=white">
     <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-FF8A00.svg?style=flat-square&logo=obs-studio&logoColor=white">
  </p>
+ 
+ ![trophy](https://github-profile-trophy.vercel.app/?username=Warlordsam07&theme=algolia)
 
  <p align="center">
  <img  height="200" width="700" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/opnakama9.jpg"/>
