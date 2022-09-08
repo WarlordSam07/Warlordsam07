@@ -14,7 +14,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=warlordsam07&show_icons=true&theme=radical" width="380">
 <p><em>Just a regular techie who has a keen interest in esoteric technologies <br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
- My name is Pratik Lagaskar but I go by my alias warlordsam. I am a passionate life-long student of cybersecurity.
+ My name is Pratik Lagaskar but I go by my alias warlordsam. I am a passionate life-long student of cybersecurity. Most of my projects are either private or on different hosting services. I like to spend mojority of my time learning new things related to development, DevSecOps and Cybersecurity. 
  
  ## <img height="40" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/ani1.gif"/>
  #### Development Related Stuff that I'm familiar with:
@@ -46,3 +46,5 @@
  
  #### Cybersecurity related stuff that I'm proficient in:
  
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=warlordsam07&count_private=true&theme=radical" alt="WarlordSam07" />
