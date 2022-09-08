@@ -1,6 +1,6 @@
 <h2> Hi, 👋 I'm WarlordSam </h2>
 
-<p align="center">
+<p align="center-left">
 <img height="281" width="500" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/5cms.gif"/>
 <img height="172" width="499" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in" alt="Quotes Card" />
 </p>
