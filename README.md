@@ -66,7 +66,7 @@
    <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
  </p>
  
- ## <img height="40" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/ani1.gif"/>
+ ## <img height="40" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/dn4.gif"/>
  #### Cybersecurity related stuff that I'm proficient in:
   <p>
     <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
