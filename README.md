@@ -10,6 +10,9 @@
 <a href="https://www.linkedin.com/in/pratik-lagaskar-a8747b20a/">
   <img align="left" alt="Pratik's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://open.spotify.com/user/2acs3ecfjhdltjj8lnep5asb8">
+  <img align="left" src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify">
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=warlordsam07.warlordsam07)
 
