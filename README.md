@@ -20,7 +20,9 @@
 - 🌱 I’m currently learning Ruby on Rails, Scala and attending a lot of tech-conferences .
 - 👯 I’m willing to collaborate on building security tools, and research projects.
 - 📫 How to reach me: pratiklagaskar.pl@gmail.com
-- 😄 Pronouns: My pronouns are 'He' not 'Him', coz I'll never be him: <img height="40" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/elliot2.gif"/>
+- 😄 Pronouns: My pronouns are 'He' not 'Him', coz I'll never be him: <img height="50" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/elliot3.gif"/>
+  
+ 
  ## <img height="40" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/ani1.gif"/>
  #### Development Related Stuff that I'm familiar with:
  <p>
