@@ -71,15 +71,15 @@
     <img alt="SonarQube" src="https://img.shields.io/badge/-SonarQube-4F4B8D.svg?style=flat-square&logo=sonarqube&logoColor=white" />
     <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-8DD6F9?style=flat-square&logo=gitlab&logoColor=white" />
     <img alt="Jfrog Artifactory" src="https://img.shields.io/badge/-Jfrog-5D5D5D.svg?style=flat-square&logo=jfrog&logoColor=white" />
+    <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-QA8A00.svg?style=flat-square&logo=grafana&logoColor=white" />
     <img alt="Jira" src="https://img.shields.io/badge/-Jira-97C8F5.svg?style=flat-square&logo=jira&logoColor=white" />
     <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-4F4B8D.svg?style=flat-square&logo=confluence&logoColor=white" />
     <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-DD0031?style=flat-square&logo=prometheus&logoColor=white" />
     <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-97C8F5.svg?style=flat-square&logo=jenkins&logoColor=white" />
-    <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-QA8A00.svg?style=flat-square&logo=grafana&logoColor=white" />
     <img alt="Chef" src="https://img.shields.io/badge/-Chef-PJ4F00.svg?style=flat-square&logo=chef&logoColor=white" />
-    <img alt="Puppet" src="https://img.shields.io/badge/-Puppet-YB8A00.svg?style=flat-square&logo=puppet&logoColor=white" />
     <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-95C8F5.svg?style=flat-square&logo=ansible&logoColor=white" />
     <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-036B7C.svg?style=flat-square&logo=terraform&logoColor=white" />
+    <img alt="Puppet" src="https://img.shields.io/badge/-Puppet-YB8A00.svg?style=flat-square&logo=puppet&logoColor=white" />
  </p>
  
  
@@ -88,6 +88,18 @@
   <p>
     <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
     <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white">
-
+    <img alt="MITRE ATT&CK" src="https://img.shields.io/badge/-MITRE%20ATT%26CK-008080.svg?logo=mitre-attack&logoColor=white">
+    <img alt="Metasploit" src="https://img.shields.io/badge/-Metasploit-YB8A00.svg?logo=metasploit&logoColor=white">
+    <img alt="Linux" src="https://img.shields.io/badge/-Linux-008080.svg?logo=linux&logoColor=white">
+    <img alt="Nmap" src="https://img.shields.io/badge/-Nmap-75D5D5.svg?logo=nmap&logoColor=white">
+    <img alt="OpenVAS" src="https://img.shields.io/badge/-OpenVAS-945B00.svg?logo=openvas&logoColor=white">
+    <img alt="OWASP" src="https://img.shields.io/badge/-OWASP-red.svg?logo=owasp&logoColor=white">
+    <img alt="Burp Suite" src="https://img.shields.io/badge/-Burp%20Suite-796E00.svg?logo=burp-suite&logoColor=white">
+    <img alt="Nessus" src="https://img.shields.io/badge/-Nessus-894B00.svg?logo=nessus&logoColor=white">
+    <img alt="OSINT" src="https://img.shields.io/badge/-OSINT-8I8A00.svg?logo=osint&logoColor=white">
+    <img alt="Reverse Engineering" src="https://img.shields.io/badge/-Reverse%20Engineering-15D5D5.svg?logo=reverse-engineering&logoColor=white">
+    <img alt="Shodan" src="https://img.shields.io/badge/-Shodan-796E00.svg?logo=shodan&logoColor=white">
+    <img alt="Sqlmap" src="https://img.shields.io/badge/-Sqlmap-048A00.svg?logo=sqlmap&logoColor=white">
+    <img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-008080.svg?logo=wireshark&logoColor=white">
   </p>
  
