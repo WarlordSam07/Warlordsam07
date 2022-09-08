@@ -1,5 +1,5 @@
 <h2> Hi, 👋 I'm WarlordSam </h2>
-<img height="281" width="500" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/5cms.gif"/>
+<img align="center" height="281" width="500" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/5cms.gif"/>
 
 <a href="https://discord.com/users/WarlordSam#5451">
   <img align="left" alt="WarlordSam's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -18,17 +18,18 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=warlordsam07&show_icons=true&theme=radical" width="380">
 <p><em>Just a regular techie who has a keen interest in esoteric technologies <br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
- My name is Pratik Lagaskar but I go by my alias warlordsam. I am a passionate life-long student of cybersecurity. Most of my projects are either private or on different hosting services. I like to spend majority of my time learning new things related to Development, DevSecOps and Cybersecurity. 
+ My name is Pratik Lagaskar but I go by my alias 'warlordsam'. I am a pseudo-introvert who is passionate about Cybersecurity and is a life-long learner. Most of my projects are either private or on different hosting services. I like to spend majority of my time learning new things related to Development, DevSecOps and Cybersecurity. 
  
- - 📙 I’m an Undergraduate student pursuing Electronics Engineering.
- - 🔭 I’m currently working on a dark web data wells scanner.
+ <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=warlordsam07&count_private=true&theme=radical" alt="WarlordSam07" width="380" />
+- 📙 I’m an Undergraduate student pursuing Electronics Engineering.                                 
+- 🔭 I’m currently working on a dark web data wells scanner.
 - 🌱 I’m currently learning Ruby on Rails, Scala and attending a lot of tech-conferences .
 - 👯 I’m willing to collaborate on building security tools, and research projects.
 - 📫 You can reach me at: pratiklagaskar.pl@gmail.com
-- 😄 Pronouns: My pronouns are 'He' not 'Him', coz I'll never be him: <img height="50" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/elliot3.gif"/>
+- 😄 Pronouns: My pronouns are 'He' not 'Him', coz I'll never be him: <img height="50" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/elliot3.gif"/>
   
  
- ## <img height="40" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/ani1.gif"/>
+ ## <img height="40" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/ani1.gif"/>
  #### Development related stuff that I'm familiar with:
  <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python&logoColor=white">
@@ -57,7 +58,7 @@
 </p>
 
 
-## <img height="40" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/lelouch.gif"/>
+## <img height="40" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/lelouch.gif"/>
 #### DevSecOps related stuff that I'm good with:
   <p>
    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> 
@@ -68,7 +69,7 @@
  </p>
  
  
- ## <img height="40" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/dn4.gif"/>
+ ## <img height="40" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/dn4.gif"/>
  #### Cybersecurity related stuff that I'm proficient in:
   <p>
     <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
@@ -76,5 +77,3 @@
     
   </p>
  
-
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=warlordsam07&count_private=true&theme=radical" alt="WarlordSam07" width="380" />
