@@ -1,8 +1,8 @@
 <h2> Hi, 👋 I'm WarlordSam </h2>
 
 <p float ="middle">
-<img  height="281" width="500" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/5cms.gif"/>
-<img  height="172" width="500" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in" alt="Quotes Card" />
+<img  height="251" width="400" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/5cms.gif"/>
+<img  height="172" width="400" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in" alt="Quotes Card" />
 </p>
 
 
