@@ -45,9 +45,12 @@
  #### Development related stuff that I'm good with:
  <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python&logoColor=white">
-  <img alt="C" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> 
+  <img alt="C" src="https://img.shields.io/badge/C-14354C.svg?style=flat-square&logo=c&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
   <img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=flat-square&logo=cpp2&logoColor=white">
+  <img alt="Go" src="https://img.shields.io/badge/Go-0072FF.svg?style=flat-square&logo=go&logoColor=white" />
+  <img alt="XML" src="https://img.shields.io/badge/XML-00A0C1.svg?style=flat-square&logo=xml&logoColor=white" />
+  <img alt="Qt" src="https://img.shields.io/badge/Qt-00B0F0.svg?style=flat-square&logo=qt&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat-square&logo=php&logoColor=white">
   <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?style=flat-square&logo=database&logoColor=white">
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
