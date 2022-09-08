@@ -71,6 +71,10 @@
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?style=flat-square&logo=LaTeX&logoColor=white">
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=flat-square&logo=markdown&logoColor=white">
   <img alt="Doxygen" src="https://img.shields.io/badge/-Doxygen-0074C7.svg?style=flat-square&logo=doxygen&logoColor=white">
+  <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-008080.svg?style=flat-square&logo=opencv&logoColor=white">
+  <img alt="CodeChef" src="https://img.shields.io/badge/-CodeChef-078F00.svg?style=flat-square&logo=codechef&logoColor=white">
+  <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-45b8d8?style=flat-square&logo=leetcode&logoColor=white">
+  <img alt="Code Forces" src="https://img.shields.io/badge/-CodeForces-00979D.svg?style=flat-square&logo=codeforces&logoColor=white">
 </p>
 
 
@@ -78,6 +82,8 @@
 #### DevSecOps related stuff that I'm familiar with:
   <p>
    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> 
+   <img alt="yaml" src="https://img.shields.io/badge/YAML-00A0C1.svg?style=flat-square&logo=yaml&logoColor=white" />
+   <img alt="Groovy" src="https://img.shields.io/badge/-Groovy-00979D.svg?style=flat-square&logo=groovy&logoColor=white" />
    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=flat-square&logo=github&logoColor=white">
@@ -128,6 +134,10 @@
     <img alt="Shodan" src="https://img.shields.io/badge/-Shodan-796E00.svg?logo=shodan&logoColor=white">
     <img alt="Sqlmap" src="https://img.shields.io/badge/-Sqlmap-048A00.svg?logo=sqlmap&logoColor=white">
     <img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-008080.svg?logo=wireshark&logoColor=white">
+    <img alt="Zap" src="https://img.shields.io/badge/-Zap-078F5F.svg?logo=zap&logoColor=white">
+    <img alt="Bugcrowd" src="https://img.shields.io/badge/-Bugcrowd-YB8A00.svg?logo=bugcrowd&logoColor=white">
+    <img alt="Intigriti" src="https://img.shields.io/badge/-Intigriti-005D8E.svg?logo=intigriti&logoColor=white">
+    <img alt="YesWeHack" src="https://img.shields.io/badge/-YesWeHack-888A00.svg?logo=yeswehack&logoColor=white"> 
   </p>
 
 ## <img height="40" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/sinon.gif"/>
@@ -156,6 +166,5 @@
  <p align="center">
  <img  height="200" width="700" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/opnakama9.jpg"/>
 </p>
-
 
 ### Sayonara, Visitor!
