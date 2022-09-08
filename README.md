@@ -70,6 +70,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?style=flat-square&logo=LaTeX&logoColor=white">
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=flat-square&logo=markdown&logoColor=white">
+  <img alt="Doxygen" src="https://img.shields.io/badge/-Doxygen-0074C7.svg?style=flat-square&logo=doxygen&logoColor=white">
 </p>
 
 
@@ -95,6 +96,17 @@
     <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-95C8F5.svg?style=flat-square&logo=ansible&logoColor=white" />
     <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-036B7C.svg?style=flat-square&logo=terraform&logoColor=white" />
     <img alt="Puppet" src="https://img.shields.io/badge/-Puppet-YB8A00.svg?style=flat-square&logo=puppet&logoColor=white" />
+    <img alt="Acunetix" src="https://img.shields.io/badge/-Acunetix-0074C7.svg?style=flat-square&logo=acunetix&logoColor=white" />
+    <img alt="Splunk" src="https://img.shields.io/badge/-Splunk-087E85.svg?style=flat-square&logo=splunk&logoColor=white" />
+    <img alt="Codacy" src="https://img.shields.io/badge/-Codacy-009688.svg?style=flat-square&logo=codacy&logoColor=white" />
+    <img alt="Prisma Cloud" src="https://img.shields.io/badge/-Prisma-002F80.svg?style=flat-square&logo=prisma&logoColor=white" />
+    <img alt="SCA" src="https://img.shields.io/badge/-SCA-098F5F.svg?style=flat-square&logo=sca&logoColor=white" />
+    <img alt="DAST" src="https://img.shields.io/badge/-DAST-457B73.svg?style=flat-square&logo=dast&logoColor=white" />
+    <img alt="SAST" src="https://img.shields.io/badge/-SAST-04B8F5.svg?style=flat-square&logo=sast&logoColor=white" />
+    <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-9PW9C9.svg?style=flat-square&logo=selenium&logoColor=white" />
+    <img alt="Appium" src="https://img.shields.io/badge/-Appium-134E5E.svg?style=flat-square&logo=appium&logoColor=white" />
+    <img alt="Gradle" src="https://img.shields.io/badge/-Gradle-0074C7.svg?style=flat-square&logo=gradle&logoColor=white" />
+    <img alt="Maven" src="https://img.shields.io/badge/-Maven-012E1B.svg?style=flat-square&logo=maven&logoColor=white" />
  </p>
  
  
