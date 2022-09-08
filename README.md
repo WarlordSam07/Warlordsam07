@@ -15,17 +15,18 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=warlordsam07&show_icons=true&theme=radical" width="380">
 <p><em>Just a regular techie who has a keen interest in esoteric technologies <br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
- My name is Pratik Lagaskar but I go by my alias warlordsam. I am a passionate life-long student of cybersecurity. Most of my projects are either private or on different hosting services. I like to spend majority of my time learning new things related to development, DevSecOps and Cybersecurity. 
+ My name is Pratik Lagaskar but I go by my alias warlordsam. I am a passionate life-long student of cybersecurity. Most of my projects are either private or on different hosting services. I like to spend majority of my time learning new things related to Development, DevSecOps and Cybersecurity. 
  
+ - 📙 I’m a Undergraduate student pursuing Electronics Engineering.
  - 🔭 I’m currently working on a dark web data wells scanner.
 - 🌱 I’m currently learning Ruby on Rails, Scala and attending a lot of tech-conferences .
 - 👯 I’m willing to collaborate on building security tools, and research projects.
-- 📫 How to reach me: pratiklagaskar.pl@gmail.com
+- 📫 You can reach me at: pratiklagaskar.pl@gmail.com
 - 😄 Pronouns: My pronouns are 'He' not 'Him', coz I'll never be him: <img height="50" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/elliot3.gif"/>
   
  
  ## <img height="40" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/ani1.gif"/>
- #### Development Related Stuff that I'm familiar with:
+ #### Development related stuff that I'm familiar with:
  <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -44,7 +45,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-#### DevSecOps related Stuff that I'm good with:
+#### DevSecOps related stuff that I'm good with:
   <p>
    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> 
    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
