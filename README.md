@@ -1,5 +1,5 @@
 <h2> Hi, 👋 I'm WarlordSam </h2>
-<img height="500" width="281" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/5cms.gif"/>
+<img height="281" width="500" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/5cms.gif"/>
 
 <a href="https://discord.com/users/WarlordSam#5451">
   <img align="left" alt="WarlordSam's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
