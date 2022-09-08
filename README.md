@@ -30,7 +30,7 @@
   
  
  ## <img height="40" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/ani1.gif"/>
- #### Development related stuff that I'm familiar with:
+ #### Development related stuff that I'm good with:
  <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python&logoColor=white">
   <img alt="C" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> 
@@ -59,32 +59,27 @@
 
 
 ## <img height="40" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/lelouch.gif"/>
-#### DevSecOps related stuff that I'm good with:
+#### DevSecOps related stuff that I'm familiar with:
   <p>
    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> 
    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=flat-square&logo=github&logoColor=white">
    <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-    <img alt="AWS" src="https://img.shields.io/badge/-AWS-0078D4?style=flat-square&logo=aws&logoColor=white" />
-    <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=azure&logoColor=white" />
-    <img alt="GCP" src="https://img.shields.io/badge/-GCP-0078D4?style=flat-square&logo=gcp&logoColor=white" />
     <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-0078D4?style=flat-square&logo=kubernetes&logoColor=white" />
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-0078D4?style=flat-square&logo=docker&logoColor=white" />
-    <img alt="SonarQube" src="https://img.shields.io/badge/-SonarQube-0078D4?style=flat-square&logo=sonarqube&logoColor=white" />
-    <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-0078D4?style=flat-square&logo=gitlab&logoColor=white" />
-    <img alt="Jfrog Artifactory" src="https://img.shields.io/badge/-Jfrog-0078D4?style=flat-square&logo=jfrog&logoColor=white" />
-    <img alt="Jira" src="https://img.shields.io/badge/-Jira-0078D4?style=flat-square&logo=jira&logoColor=white" />
-    <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-0078D4?style=flat-square&logo=confluence&logoColor=white" />
-    <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-0078D4?style=flat-square&logo=prometheus&logoColor=white" />
-    <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-0078D4?style=flat-square&logo=jenkins&logoColor=white" />
-    <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-0078D4?style=flat-square&logo=grafana&logoColor=white" />
-    <img alt="Chef" src="https://img.shields.io/badge/-Chef-0078D4?style=flat-square&logo=chef&logoColor=white" />
-    <img alt="Puppet" src="https://img.shields.io/badge/-Puppet-0078D4?style=flat-square&logo=puppet&logoColor=white" />
-    <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-0078D4?style=flat-square&logo=ansible&logoColor=white" />
-    <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-0078D4?style=flat-square&logo=terraform&logoColor=white" />
-    <!--DevSecOps tools with different background color-->
-    <img alt="kibana" src="https://img.shields.io/badge/-Kibana-0078D4?style=flat-square&logo=kibana&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-DD0031?style=flat-square&logo=docker&logoColor=white" />
+    <img alt="SonarQube" src="https://img.shields.io/badge/-SonarQube-4F4B8D.svg?style=flat-square&logo=sonarqube&logoColor=white" />
+    <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-8DD6F9?style=flat-square&logo=gitlab&logoColor=white" />
+    <img alt="Jfrog Artifactory" src="https://img.shields.io/badge/-Jfrog-5D5D5D.svg?style=flat-square&logo=jfrog&logoColor=white" />
+    <img alt="Jira" src="https://img.shields.io/badge/-Jira-97C8F5.svg?style=flat-square&logo=jira&logoColor=white" />
+    <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-4F4B8D.svg?style=flat-square&logo=confluence&logoColor=white" />
+    <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-DD0031?style=flat-square&logo=prometheus&logoColor=white" />
+    <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-97C8F5.svg?style=flat-square&logo=jenkins&logoColor=white" />
+    <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-QA8A00.svg?style=flat-square&logo=grafana&logoColor=white" />
+    <img alt="Chef" src="https://img.shields.io/badge/-Chef-PJ4F00.svg?style=flat-square&logo=chef&logoColor=white" />
+    <img alt="Puppet" src="https://img.shields.io/badge/-Puppet-YB8A00.svg?style=flat-square&logo=puppet&logoColor=white" />
+    <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-95C8F5.svg?style=flat-square&logo=ansible&logoColor=white" />
+    <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-036B7C.svg?style=flat-square&logo=terraform&logoColor=white" />
  </p>
  
  
