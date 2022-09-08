@@ -54,4 +54,4 @@
  #### Cybersecurity related stuff that I'm proficient in:
  
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=warlordsam07&count_private=true&theme=radical" alt="WarlordSam07" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=warlordsam07&count_private=true&theme=radical" alt="WarlordSam07" />
