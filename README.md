@@ -33,12 +33,12 @@
 - 👯 I’m willing to collaborate on building security tools, and research projects.
 - 📫 You can reach me at: pratiklagaskar.pl@gmail.com | daemon1201@protonmail.com
 - 😄 Pronouns: My pronouns are 'He' not 'Him', coz I'll never be him: <img height="50" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/elliot3.gif"/> , jk
- - 🐱‍💻 Things I like/hobbies: Anime 🐱‍👤, Manga, Light Novels, Donghuas, Manhw(u)as, Movies/TV-Series, Jdramas, Kdramas, Chess, Speed Cubing, Bug Bounty Hunting and Biryani🤤 (please, don't judge me🙂) 
+ - 🐱‍💻 Things I like/hobbies: Anime 🐱‍👤, Manga, Light Novels, Donghuas, Manhw(u)as, Movies/TV-Series, Jdramas, Kdramas, Chess, Speed Cubing, Bug Bounty Hunting, playing Genshin Impact | Ghost of Tsushima | AOE | OSU! and Biryani🤤 (please, don't judge me🙂) 
  - 🎯 Striving hard to support my hobbies.😅
   
   #### Tasks:
   - [x] Born
-  - [ ] Get a Job
+  - [ ] Get a 'Job'
   - [ ] Die 
  
  ## <img height="40" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/ani1.gif"/>
