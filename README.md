@@ -41,6 +41,12 @@
   - [x] Born
   - [ ] Get a 'Job'
   - [ ] Die 
+  
+## <img height="55" src="https://media.tenor.com/4HRZBZapfssAAAAC/solo-leveling-sung-jin-woo.gif" alt="GIF">
+
+#### CTF Team:
+
+If I am not working on any project, I am probably playing CTFs with my team: <a href="https://twc1rcle.com/ctf/team/">`TWC (The White Circle)`</a>
  
  ## <img height="40" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/ani1.gif"/>
  #### Development related stuff that I'm good with:
