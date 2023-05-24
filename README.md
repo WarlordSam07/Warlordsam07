@@ -1,14 +1,14 @@
 <h2> Hi, 👋 I'm WarlordSam </h2>
+<p style="text-align: center;">
+  <img height="220" width="380" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/5cms.gif" alt="GIF Image" style="margin-right: 20px;" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/2acs3ecfjhdltjj8lnep5asb8">
+    <img height="180" width="410" src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Card" style="margin-left: 20px;" />
+  </a>
+</p>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img height="220" width="280" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/5cms.gif" alt="GIF Image" />
 
-  <div>
-    <a href="https://open.spotify.com/user/2acs3ecfjhdltjj8lnep5asb8">
-      <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Card" />
-    </a>
-  </div>
-</div>
+
 
 
 <a href="https://discord.com/users/WarlordSam#5451">
@@ -24,7 +24,7 @@
   <img align="left" src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify">
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=warlordsam07.warlordsam07)
+![](https://komarev.com/ghpvc/?username=warlordsam07&color=green)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=warlordsam07&show_icons=true&theme=radical" width="380">
 <p><em>Just a regular techie who has a keen interest in esoteric technologies <br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
