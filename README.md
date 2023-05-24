@@ -2,7 +2,7 @@
 <p style="text-align: center;">
   <img height="220" width="380" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/5cms.gif" alt="GIF Image" style="margin-right: 20px;" />
   &nbsp;&nbsp;
- <a href="https://open.spotify.com/user/2acs3ecfjhdltjj8lnep5asb8%3F_authfailed%3D1&nd=1"><img width="420" height="auto" src="https://novatorem2-nu.vercel.app/api/spotify?background_color=0d1117&border_color=FFA2FE" alt="Sam's Spotify Currently Playing" target="_blank" class="auto" rel="noopener noreferrer"/></a>
+ <a href="https://open.spotify.com/user/2acs3ecfjhdltjj8lnep5asb8%3F_authfailed%3D1&nd=1"><img width="430" height="auto" src="https://novatorem2-nu.vercel.app/api/spotify?background_color=0d1117&border_color=FFA2FE" alt="Sam's Spotify Currently Playing" target="_blank" class="auto" rel="noopener noreferrer"/></a>
 </p>
 
 
