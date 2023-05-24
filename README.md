@@ -1,7 +1,7 @@
 <h2> Hi, 👋 I'm WarlordSam </h2>
 <p style="text-align: center;">
   <img height="220" width="380" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/5cms.gif" alt="GIF Image" style="margin-right: 20px;" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://open.spotify.com/user/2acs3ecfjhdltjj8lnep5asb8">
     <img height="180" width="410" src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Card" style="margin-left: 20px;" />
   </a>
