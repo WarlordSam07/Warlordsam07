@@ -1,9 +1,14 @@
 <h2> Hi, 👋 I'm WarlordSam </h2>
 
-<p float ="middle">
-<img  height="251" width="420" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/5cms.gif"/>
-<img  height="170" width="420" src="https://random-animequotes.netlify.app/" alt="Quotes Card" />
-</p>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img height="220" width="280" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/5cms.gif" alt="GIF Image" />
+
+  <div>
+    <a href="https://open.spotify.com/user/2acs3ecfjhdltjj8lnep5asb8">
+      <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Card" />
+    </a>
+  </div>
+</div>
 
 
 <a href="https://discord.com/users/WarlordSam#5451">
