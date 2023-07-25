@@ -8,13 +8,13 @@
 
 
 <a href="https://discord.com/users/WarlordSam#5451">
-  <img align="left" alt="WarlordSam's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="WarlordSam's Discord" width="22px" src="assets/discord.svg" />
 </a>
 <a href="https://twitter.com/warlordsam077">
-  <img align="left" alt="Pratik Lagaskar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Pratik Lagaskar | Twitter" width="22px" src="assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/pratik-lagaskar-a8747b20a/">
-  <img align="left" alt="Pratik's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Pratik's LinkedIN" width="22px" src="assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/2acs3ecfjhdltjj8lnep5asb8">
   <img align="left" src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify">
