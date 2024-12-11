@@ -28,15 +28,17 @@
  
  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=warlordsam07&count_private=true&theme=radical" alt="WarlordSam07" width="380" />
  
- - 📙 I’m an Undergraduate student pursuing Electronics Engineering.                                 
-- 🔭 I’m currently working on a dark web data wells scanner.
-- 🌱 I’m currently learning Ruby on Rails, Scala and attending a lot of tech-conferences .
-- 👯 I’m willing to collaborate on building security tools, and research projects.
-- 📫 You can reach me at: pratiklagaskar.pl@gmail.com | daemon1201@protonmail.com
-- 😄 Pronouns: My pronouns are 'He' not 'Him', coz I'll never be him: <img height="50" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/elliot3.gif"/> , jk
- - 🐱‍💻 Things I like/hobbies: Anime 🐱‍👤, Manga, Light Novels, Donghuas, Manhw(u)as, Movies/TV-Series, Jdramas, Kdramas, Chess, Speed Cubing, Bug Bounty Hunting, playing Genshin Impact | Ghost of Tsushima | AOE | OSU! and Biryani🤤 (please, don't judge me🙂) 
- - 🎯 Striving hard to support my hobbies.😅
-  
+- 💻  I’m a Security Researcher at [CredShields](https://credshields.com).
+- 🔭  I’m currently working on postmortems of web3 rekts, TX analysis & OSINT.
+- 🌱  I’m currently learning EVM internals, various DeFi protocols, altchains (Cosmos, Solana), node reviews, hash-based snargs and Formal Verification (CVL, Coq and Dafny).
+- 👯  I’m willing to collaborate on building security tools, academic research and contributing to open-source projects.
+- 📫  You can reach me at: <a href="mailto:pratiklagaskar.pl@gmail.com">pratiklagaskar.pl@gmail.com </a> |
+  <a href="mailto:pratik.lagaskar@owasp.org">pratik.lagaskar@owasp.org </a> |
+- 😄  Pronouns: My pronouns are 'He' not 'Him', coz I'll never be him: <img height="50" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/elliot3.gif"/> , jk
+
+- Things I like/hobbies: Anime ⛩️, Manga, Light Novels, Donghuas, Manhw(u)as, Movies/TV-Series, Jdramas, Kdramas, Chess, Speed Cubing, Bug Bounty Hunting, playing Genshin Impact, Ghost of Tsushima, AOE, OSU! and Biryani🤤 (please, don't judge me🙂)
+
+- 🎯 Striving hard to support my hobbies.😅
   #### Tasks:
   - [x] Born
   - [ ] Get a 'Job'
