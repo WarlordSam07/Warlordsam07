@@ -50,7 +50,7 @@
 If I am not working on any project, I spend majority of free time strengthening audit skills by participating in contests and bug bounties. 
  
  ## <img height="40" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/ani1.gif"/>
- #### Development related stuff that I'm good with:
+ #### Development related stuff that I'm familiar with:
  <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python&logoColor=white">
   <img alt="C" src="https://img.shields.io/badge/C-14354C.svg?style=flat-square&logo=c&logoColor=white">
@@ -87,7 +87,7 @@ If I am not working on any project, I spend majority of free time strengthening 
 
 
 ## <img height="40" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/lelouch.gif"/>
-#### DevSecOps related stuff that I'm familiar with:
+#### DevSecOps related stuff that I'm good with:
   <p>
    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> 
    <img alt="yaml" src="https://img.shields.io/badge/YAML-00A0C1.svg?style=flat-square&logo=yaml&logoColor=white" />
